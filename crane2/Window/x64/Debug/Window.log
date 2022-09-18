@@ -1,0 +1,4 @@
+﻿D:\code\VS\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (Animation.vcxproj, Window.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  Crane2.cpp
+D:\ownprojects\cplusplus\crane2\Window\Crane2.cpp(126): warning C4715: "Taking”: niewszystkie ścieżki kodu zwracają wartość
+  Window.vcxproj -> D:\ownprojects\cplusplus\crane2\x64\Debug\Crane2.exe
